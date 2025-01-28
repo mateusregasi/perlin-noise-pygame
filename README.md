@@ -41,13 +41,16 @@ $$
 Agora é necessário calcular o produto escalar entre os vetores gradiente e vetores distância em cada vértice do produto escalar.
 
 Seja  
+
 $$
 \vec{vd_0} = (x_0, y_0)\\
 \vec{vd_1} = (x_0, y_1)\\
 \vec{vd_2} = (x_1, y_0)\\
 \vec{vd_3} = (x_1, y_1)
 $$
+
 então
+
 $$
 d_{00} = \lang\vec{vg0},\vec{vd0}\rang\\
 d_{01} = \lang\vec{vg1},\vec{vd1}\rang\\
